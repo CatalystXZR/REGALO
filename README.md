@@ -1,7 +1,9 @@
-# Plataforma de Cursos - jc.pinceladas
+# TE DIJE QUE NO TE METIERAS...
+Sabía que te ibas a meter. Asique t explico que es. Basicamente es un prototipo semifuncional de la página que quería tu mamá.
 
-MVP mejorado para gestionar clientas, cursos por video y accesos temporales.
+Es la version mejorada de lo que te envíe la otra vez. Le agregue funciones para gestionar clientas, cursos por video y accesos temporales. Aún no está lista. Dejame terminarla, no me gustó el stack que usé. Puedo hacer algo mejor.
 
+# ESTRUCTURA
 ## Objetivo
 
 - Uso ultra simple para administradora y clientas.
